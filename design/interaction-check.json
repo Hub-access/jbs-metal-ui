@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    "6 preserved feature labels",
+    "category switching",
+    "selection retention",
+    "search and empty state",
+    "pause/resume",
+    "close/restore",
+    "hidden document stops rAF"
+  ],
+  "patternMarks": [
+    165,
+    308
+  ],
+  "pendingAnimationLoops": 1
+}

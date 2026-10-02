@@ -1,0 +1,83 @@
+{
+  "version": "metal-grid-2",
+  "width": 1016,
+  "height": 726,
+  "palette": {
+    "base": "#16091F",
+    "panel": "#251033",
+    "pink": "#FF4FD8",
+    "violet": "#A855F7",
+    "pearl": "#D8B4FE",
+    "white": "#FFE6FA"
+  },
+  "pattern": {
+    "pitchX": 42,
+    "pitchY": 28,
+    "size": 13
+  },
+  "navigation": [
+    {
+      "id": "main",
+      "label": "主要",
+      "icon": "bolt"
+    },
+    {
+      "id": "travel",
+      "label": "传送",
+      "icon": "pin"
+    },
+    {
+      "id": "pets",
+      "label": "宠物",
+      "icon": "pet"
+    },
+    {
+      "id": "boss",
+      "label": "Boss",
+      "icon": "crown"
+    },
+    {
+      "id": "training",
+      "label": "训练",
+      "icon": "weight"
+    }
+  ],
+  "features": [
+    {
+      "id": "strength",
+      "label": "自动举重",
+      "category": "training",
+      "icon": "weight"
+    },
+    {
+      "id": "speed",
+      "label": "极速训练",
+      "category": "training",
+      "icon": "bolt"
+    },
+    {
+      "id": "companions",
+      "label": "宠物进阶",
+      "category": "pets",
+      "icon": "pet"
+    },
+    {
+      "id": "teleport",
+      "label": "世界传送",
+      "category": "travel",
+      "icon": "pin"
+    },
+    {
+      "id": "arena",
+      "label": "竞技主场",
+      "category": "boss",
+      "icon": "crown"
+    },
+    {
+      "id": "aura",
+      "label": "光环特效",
+      "category": "pets",
+      "icon": "spark"
+    }
+  ]
+}
